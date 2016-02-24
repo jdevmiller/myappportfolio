@@ -75,7 +75,6 @@
             android:layout_width="@dimen/button_width"
             android:layout_height="@dimen/button_height"
             android:layout_gravity="center_horizontal"
-            android:background="#f44336"
             android:paddingLeft="@dimen/button_horizontal_padding"
             android:paddingRight="@dimen/button_horizontal_padding"
             android:text="@string/capstone_app_name" />
