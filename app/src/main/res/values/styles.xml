@@ -3,8 +3,7 @@
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
 
-        <item name="colorPrimary">#F08C35</item>
-        <item name="colorButtonNormal">#F08C35</item>
+      
     </style>
 
 </resources>
