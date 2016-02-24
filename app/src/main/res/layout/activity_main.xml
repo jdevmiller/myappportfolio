@@ -24,72 +24,78 @@
 
         <Button
             android:id="@+id/spotify_streamer_app"
-            android:background="#F08C35"
             android:layout_width="match_parent"
             android:layout_height="@dimen/button_height"
             android:layout_marginBottom="@dimen/button_vertical_margin"
             android:layout_marginTop="@dimen/button_vertical_margin"
+            android:background="#F08C35"
             android:paddingLeft="@dimen/button_horizontal_padding"
             android:paddingRight="@dimen/button_horizontal_padding"
-            android:text="@string/spotify_streamer_app_name" />
+            android:text="@string/spotify_streamer_app_name"
+            android:textSize="14dp" />
 
         <Button
             android:id="@+id/scores_app"
-            android:background="#F08C35"
             android:layout_width="match_parent"
             android:layout_height="@dimen/button_height"
             android:layout_marginBottom="@dimen/button_vertical_margin"
             android:layout_marginTop="@dimen/button_vertical_margin"
+            android:background="#F08C35"
             android:paddingLeft="@dimen/button_horizontal_padding"
             android:paddingRight="@dimen/button_horizontal_padding"
-            android:text="@string/scores_app_name" />
+            android:text="@string/scores_app_name"
+            android:textSize="14dp" />
 
 
         <Button
             android:id="@+id/library_app"
-            android:background="#F08C35"
             android:layout_width="match_parent"
             android:layout_height="@dimen/button_height"
             android:layout_marginBottom="@dimen/button_vertical_margin"
             android:layout_marginTop="@dimen/button_vertical_margin"
+            android:background="#F08C35"
             android:paddingLeft="@dimen/button_horizontal_padding"
             android:paddingRight="@dimen/button_horizontal_padding"
-            android:text="@string/library_app_name" />
+            android:text="@string/library_app_name"
+            android:textSize="14dp" />
 
         <Button
             android:id="@+id/build_bigger_app"
-            android:background="#F08C35"
             android:layout_width="match_parent"
             android:layout_height="@dimen/button_height"
             android:layout_marginBottom="@dimen/button_vertical_margin"
             android:layout_marginTop="@dimen/button_vertical_margin"
+            android:background="#F08C35"
             android:paddingLeft="@dimen/button_horizontal_padding"
             android:paddingRight="@dimen/button_horizontal_padding"
-            android:text="@string/build_bigger_app_name" />
+            android:text="@string/build_bigger_app_name"
+            android:textSize="14dp" />
 
 
         <Button
             android:id="@+id/xyz_reader_app"
-            android:background="#F08C35"
             android:layout_width="match_parent"
             android:layout_height="@dimen/button_height"
             android:layout_marginBottom="@dimen/button_vertical_margin"
             android:layout_marginTop="@dimen/button_vertical_margin"
+            android:background="#F08C35"
             android:paddingLeft="@dimen/button_horizontal_padding"
             android:paddingRight="@dimen/button_horizontal_padding"
-            android:text="@string/xyz_reader_app_name" />
+            android:text="@string/xyz_reader_app_name"
+            android:textSize="14dp" />
 
 
         <Button
             android:id="@+id/capstone_app"
-            android:background="#f44336"
             android:layout_width="match_parent"
             android:layout_height="@dimen/button_height"
             android:layout_marginBottom="@dimen/button_vertical_margin"
             android:layout_marginTop="@dimen/button_vertical_margin"
+            android:background="#f44336"
             android:paddingLeft="@dimen/button_horizontal_padding"
             android:paddingRight="@dimen/button_horizontal_padding"
-            android:text="@string/capstone_app_name" />
+            android:text="@string/capstone_app_name"
+            android:textSize="14dp" />
     </LinearLayout>
 
 
