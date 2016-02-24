@@ -18,64 +18,67 @@
 
     <LinearLayout
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content">
-    <Button
-        android:id="@+id/spotify_streamer_app"
-        android:layout_width="@dimen/button_width"
-        android:layout_height="@dimen/button_height"
         android:layout_gravity="center_horizontal"
-        android:paddingLeft="@dimen/button_horizontal_padding"
-        android:paddingRight="@dimen/button_horizontal_padding"
-        android:text="@string/spotify_streamer_app_name" />
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
 
-    <Button
-        android:id="@+id/scores_app"
-        android:layout_width="@dimen/button_width"
-        android:layout_height="@dimen/button_height"
-        android:layout_gravity="center_horizontal"
-        android:paddingLeft="@dimen/button_horizontal_padding"
-        android:paddingRight="@dimen/button_horizontal_padding"
-        android:text="@string/scores_app_name" />
+        <Button
+            android:id="@+id/spotify_streamer_app"
+            android:layout_width="@dimen/button_width"
+            android:layout_height="@dimen/button_height"
+            android:layout_gravity="center_horizontal"
+            android:paddingLeft="@dimen/button_horizontal_padding"
+            android:paddingRight="@dimen/button_horizontal_padding"
+            android:text="@string/spotify_streamer_app_name" />
 
-
-    <Button
-        android:id="@+id/library_app"
-        android:layout_width="@dimen/button_width"
-        android:layout_height="@dimen/button_height"
-        android:layout_gravity="center_horizontal"
-        android:paddingLeft="@dimen/button_horizontal_padding"
-        android:paddingRight="@dimen/button_horizontal_padding"
-        android:text="@string/library_app_name" />
-
-    <Button
-        android:id="@+id/build_bigger_app"
-        android:layout_width="@dimen/button_width"
-        android:layout_height="@dimen/button_height"
-        android:layout_gravity="center_horizontal"
-        android:paddingLeft="@dimen/button_horizontal_padding"
-        android:paddingRight="@dimen/button_horizontal_padding"
-        android:text="@string/build_bigger_app_name" />
+        <Button
+            android:id="@+id/scores_app"
+            android:layout_width="@dimen/button_width"
+            android:layout_height="@dimen/button_height"
+            android:layout_gravity="center_horizontal"
+            android:paddingLeft="@dimen/button_horizontal_padding"
+            android:paddingRight="@dimen/button_horizontal_padding"
+            android:text="@string/scores_app_name" />
 
 
-    <Button
-        android:id="@+id/xyz_reader_app"
-        android:layout_width="@dimen/button_width"
-        android:layout_height="@dimen/button_height"
-        android:layout_gravity="center_horizontal"
-        android:paddingLeft="@dimen/button_horizontal_padding"
-        android:paddingRight="@dimen/button_horizontal_padding"
-        android:text="@string/xyz_reader_app_name" />
+        <Button
+            android:id="@+id/library_app"
+            android:layout_width="@dimen/button_width"
+            android:layout_height="@dimen/button_height"
+            android:layout_gravity="center_horizontal"
+            android:paddingLeft="@dimen/button_horizontal_padding"
+            android:paddingRight="@dimen/button_horizontal_padding"
+            android:text="@string/library_app_name" />
+
+        <Button
+            android:id="@+id/build_bigger_app"
+            android:layout_width="@dimen/button_width"
+            android:layout_height="@dimen/button_height"
+            android:layout_gravity="center_horizontal"
+            android:paddingLeft="@dimen/button_horizontal_padding"
+            android:paddingRight="@dimen/button_horizontal_padding"
+            android:text="@string/build_bigger_app_name" />
 
 
-    <Button
-        android:id="@+id/capstone_app"
-        android:layout_width="@dimen/button_width"
-        android:layout_height="@dimen/button_height"
-        android:layout_gravity="center_horizontal"
-        android:background="#f44336"
-        android:paddingLeft="@dimen/button_horizontal_padding"
-        android:paddingRight="@dimen/button_horizontal_padding"
-        android:text="@string/capstone_app_name" />
+        <Button
+            android:id="@+id/xyz_reader_app"
+            android:layout_width="@dimen/button_width"
+            android:layout_height="@dimen/button_height"
+            android:layout_gravity="center_horizontal"
+            android:paddingLeft="@dimen/button_horizontal_padding"
+            android:paddingRight="@dimen/button_horizontal_padding"
+            android:text="@string/xyz_reader_app_name" />
+
+
+        <Button
+            android:id="@+id/capstone_app"
+            android:layout_width="@dimen/button_width"
+            android:layout_height="@dimen/button_height"
+            android:layout_gravity="center_horizontal"
+            android:background="#f44336"
+            android:paddingLeft="@dimen/button_horizontal_padding"
+            android:paddingRight="@dimen/button_horizontal_padding"
+            android:text="@string/capstone_app_name" />
     </LinearLayout>
 
 
