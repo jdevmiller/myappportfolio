@@ -25,7 +25,7 @@
         <Button
             android:id="@+id/spotify_streamer_app"
             android:background="#F08C35"
-            android:layout_width="@dimen/button_width"
+            android:layout_width="match_parent"
             android:layout_height="@dimen/button_height"
             android:layout_marginBottom="@dimen/button_vertical_margin"
             android:layout_marginTop="@dimen/button_vertical_margin"
@@ -36,7 +36,7 @@
         <Button
             android:id="@+id/scores_app"
             android:background="#F08C35"
-            android:layout_width="@dimen/button_width"
+            android:layout_width="match_parent"
             android:layout_height="@dimen/button_height"
             android:layout_marginBottom="@dimen/button_vertical_margin"
             android:layout_marginTop="@dimen/button_vertical_margin"
@@ -48,7 +48,7 @@
         <Button
             android:id="@+id/library_app"
             android:background="#F08C35"
-            android:layout_width="@dimen/button_width"
+            android:layout_width="match_parent"
             android:layout_height="@dimen/button_height"
             android:layout_marginBottom="@dimen/button_vertical_margin"
             android:layout_marginTop="@dimen/button_vertical_margin"
@@ -59,7 +59,7 @@
         <Button
             android:id="@+id/build_bigger_app"
             android:background="#F08C35"
-            android:layout_width="@dimen/button_width"
+            android:layout_width="match_parent"
             android:layout_height="@dimen/button_height"
             android:layout_marginBottom="@dimen/button_vertical_margin"
             android:layout_marginTop="@dimen/button_vertical_margin"
@@ -71,7 +71,7 @@
         <Button
             android:id="@+id/xyz_reader_app"
             android:background="#F08C35"
-            android:layout_width="@dimen/button_width"
+            android:layout_width="match_parent"
             android:layout_height="@dimen/button_height"
             android:layout_marginBottom="@dimen/button_vertical_margin"
             android:layout_marginTop="@dimen/button_vertical_margin"
@@ -83,7 +83,7 @@
         <Button
             android:id="@+id/capstone_app"
             android:background="#f44336"
-            android:layout_width="@dimen/button_width"
+            android:layout_width="match_parent"
             android:layout_height="@dimen/button_height"
             android:layout_marginBottom="@dimen/button_vertical_margin"
             android:layout_marginTop="@dimen/button_vertical_margin"
