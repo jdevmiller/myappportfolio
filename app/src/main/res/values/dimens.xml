@@ -6,6 +6,6 @@
     <dimen name="button_horizontal_padding">16dp</dimen>
     <dimen name="button_width">match_parent</dimen>
     <dimen name="button_height">48dp</dimen>
-    <dimen name="button_margin">6dp</dimen>
+    <dimen name="button_vertical_margin">6dp</dimen>
     <dimen name="default_padding">16dp</dimen>
 </resources>
