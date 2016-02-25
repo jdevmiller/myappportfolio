@@ -11,7 +11,7 @@
     <string name="xyz_reader_app_name">XYZ Reader</string>
     <string name="capstone_app_name">Capstone: My Own App</string>
 
-    <string name="spotify_toast">This button launches my spotify streaming app!</string>
+    <string name="spotify_toast">This button launches my spotify app!</string>
     <string name="library_toast">This button launches my library app!</string>
     <string name="scores_toast">This button lanches my scores app!</string>
     <string name="build_bigger_toast">This button launches my Build it Bigger app!</string>
