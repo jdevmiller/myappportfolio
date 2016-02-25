@@ -36,7 +36,8 @@
             android:paddingLeft="@dimen/button_horizontal_padding"
             android:paddingRight="@dimen/button_horizontal_padding"
             android:text="@string/spotify_streamer_app_name"
-            android:textSize="14sp" />
+            android:textSize="14sp"
+            android:onClick="spotifyButton" />
 
         <Button
             android:id="@+id/scores_app"
@@ -48,7 +49,8 @@
             android:paddingLeft="@dimen/button_horizontal_padding"
             android:paddingRight="@dimen/button_horizontal_padding"
             android:text="@string/scores_app_name"
-            android:textSize="14sp" />
+            android:textSize="14sp"
+            android:onClick="scoresButton" />
 
 
         <Button
@@ -61,7 +63,8 @@
             android:paddingLeft="@dimen/button_horizontal_padding"
             android:paddingRight="@dimen/button_horizontal_padding"
             android:text="@string/library_app_name"
-            android:textSize="14sp" />
+            android:textSize="14sp"
+            android:onClick="libraryButton" />
 
         <Button
             android:id="@+id/build_bigger_app"
@@ -73,7 +76,8 @@
             android:paddingLeft="@dimen/button_horizontal_padding"
             android:paddingRight="@dimen/button_horizontal_padding"
             android:text="@string/build_bigger_app_name"
-            android:textSize="14sp" />
+            android:textSize="14sp"
+            android:onClick="buildBiggerButton" />
 
 
         <Button
@@ -86,7 +90,8 @@
             android:paddingLeft="@dimen/button_horizontal_padding"
             android:paddingRight="@dimen/button_horizontal_padding"
             android:text="@string/xyz_reader_app_name"
-            android:textSize="14sp" />
+            android:textSize="14sp"
+            android:onClick="xyzButton" />
 
 
         <Button
@@ -99,7 +104,8 @@
             android:paddingLeft="@dimen/button_horizontal_padding"
             android:paddingRight="@dimen/button_horizontal_padding"
             android:text="@string/capstone_app_name"
-            android:textSize="14sp" />
+            android:textSize="14sp"
+            android:onClick="capstoneButton" />
     </LinearLayout>
 
 
