@@ -30,26 +30,14 @@
             android:id="@+id/spotify_streamer_app"
             android:layout_width="match_parent"
             android:layout_height="@dimen/button_height"
-            android:layout_marginBottom="@dimen/button_vertical_margin"
-            android:layout_marginTop="@dimen/button_vertical_margin"
-            android:background="#F08C35"
-            android:paddingLeft="@dimen/button_horizontal_padding"
-            android:paddingRight="@dimen/button_horizontal_padding"
             android:text="@string/spotify_streamer_app_name"
-            android:textSize="14sp"
             android:onClick="spotifyButton" />
 
         <Button
             android:id="@+id/scores_app"
             android:layout_width="match_parent"
             android:layout_height="@dimen/button_height"
-            android:layout_marginBottom="@dimen/button_vertical_margin"
-            android:layout_marginTop="@dimen/button_vertical_margin"
-            android:background="#F08C35"
-            android:paddingLeft="@dimen/button_horizontal_padding"
-            android:paddingRight="@dimen/button_horizontal_padding"
             android:text="@string/scores_app_name"
-            android:textSize="14sp"
             android:onClick="scoresButton" />
 
 
@@ -57,26 +45,14 @@
             android:id="@+id/library_app"
             android:layout_width="match_parent"
             android:layout_height="@dimen/button_height"
-            android:layout_marginBottom="@dimen/button_vertical_margin"
-            android:layout_marginTop="@dimen/button_vertical_margin"
-            android:background="#F08C35"
-            android:paddingLeft="@dimen/button_horizontal_padding"
-            android:paddingRight="@dimen/button_horizontal_padding"
             android:text="@string/library_app_name"
-            android:textSize="14sp"
             android:onClick="libraryButton" />
 
         <Button
             android:id="@+id/build_bigger_app"
             android:layout_width="match_parent"
             android:layout_height="@dimen/button_height"
-            android:layout_marginBottom="@dimen/button_vertical_margin"
-            android:layout_marginTop="@dimen/button_vertical_margin"
-            android:background="#F08C35"
-            android:paddingLeft="@dimen/button_horizontal_padding"
-            android:paddingRight="@dimen/button_horizontal_padding"
             android:text="@string/build_bigger_app_name"
-            android:textSize="14sp"
             android:onClick="buildBiggerButton" />
 
 
@@ -84,13 +60,7 @@
             android:id="@+id/xyz_reader_app"
             android:layout_width="match_parent"
             android:layout_height="@dimen/button_height"
-            android:layout_marginBottom="@dimen/button_vertical_margin"
-            android:layout_marginTop="@dimen/button_vertical_margin"
-            android:background="#F08C35"
-            android:paddingLeft="@dimen/button_horizontal_padding"
-            android:paddingRight="@dimen/button_horizontal_padding"
             android:text="@string/xyz_reader_app_name"
-            android:textSize="14sp"
             android:onClick="xyzButton" />
 
 
@@ -98,13 +68,8 @@
             android:id="@+id/capstone_app"
             android:layout_width="match_parent"
             android:layout_height="@dimen/button_height"
-            android:layout_marginBottom="@dimen/button_vertical_margin"
-            android:layout_marginTop="@dimen/button_vertical_margin"
             android:background="#f44336"
-            android:paddingLeft="@dimen/button_horizontal_padding"
-            android:paddingRight="@dimen/button_horizontal_padding"
             android:text="@string/capstone_app_name"
-            android:textSize="14sp"
             android:onClick="capstoneButton" />
     </LinearLayout>
 
