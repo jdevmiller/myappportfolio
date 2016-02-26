@@ -6,9 +6,11 @@
       
     </style>
 
-    <style name="button" parent="@android:style/Widget.Button">
+    <style name="DefaultButton" parent="@android:style/Widget.Button">
         <item name="android:textColor">#FFFFFFFF</item>
         <item name="android:textSize">14sp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/button_height</item>
         <item name="android:background">#F08C35</item>
         <item name="android:layout_marginBottom">@dimen/button_vertical_margin</item>
         <item name="android:layout_marginTop">@dimen/button_vertical_margin</item>

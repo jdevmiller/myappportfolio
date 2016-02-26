@@ -28,46 +28,40 @@
 
         <Button
             android:id="@+id/spotify_streamer_app"
-            android:layout_width="match_parent"
-            android:layout_height="@dimen/button_height"
             android:text="@string/spotify_streamer_app_name"
-            android:onClick="spotifyButton" />
+            android:onClick="spotifyButton"
+            style="@style/DefaultButton" />
 
         <Button
             android:id="@+id/scores_app"
-            android:layout_width="match_parent"
-            android:layout_height="@dimen/button_height"
+            style="@style/DefaultButton"
             android:text="@string/scores_app_name"
             android:onClick="scoresButton" />
 
 
         <Button
             android:id="@+id/library_app"
-            android:layout_width="match_parent"
-            android:layout_height="@dimen/button_height"
+            style="@style/DefaultButton"
             android:text="@string/library_app_name"
             android:onClick="libraryButton" />
 
         <Button
             android:id="@+id/build_bigger_app"
-            android:layout_width="match_parent"
-            android:layout_height="@dimen/button_height"
+            style="@style/DefaultButton"
             android:text="@string/build_bigger_app_name"
             android:onClick="buildBiggerButton" />
 
 
         <Button
             android:id="@+id/xyz_reader_app"
-            android:layout_width="match_parent"
-            android:layout_height="@dimen/button_height"
+            style="@style/DefaultButton"
             android:text="@string/xyz_reader_app_name"
             android:onClick="xyzButton" />
 
 
         <Button
             android:id="@+id/capstone_app"
-            android:layout_width="match_parent"
-            android:layout_height="@dimen/button_height"
+            style="@style/DefaultButton"
             android:background="#f44336"
             android:text="@string/capstone_app_name"
             android:onClick="capstoneButton" />
